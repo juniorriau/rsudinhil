@@ -1,0 +1,9 @@
+{
+    "name": "rsudinhil",
+    "require": {
+        "cakephp/cakephp": "2.9.5"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}
