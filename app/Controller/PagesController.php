@@ -13,12 +13,15 @@
 
       public function index() {
           $this->layout = "frontend";
-          if ($this->UserAuth->LoggedIn()) {
-              $this->redirect('/dashboard');
-          }
       }
 
       public function home() {
+          
+      }
+      public function profile() {
+          
+      }
+      public function contact() {
           
       }
 
