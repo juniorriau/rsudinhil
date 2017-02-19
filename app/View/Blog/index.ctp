@@ -3,7 +3,7 @@
         <div class="container">
             <h1>Blog</h1>
             <ol class="breadcrumb">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li><a href="#">Pages</a></li>
                 <li class="active">Blog</li>
             </ol>
@@ -18,7 +18,7 @@
                         <div class="col-md-6">
                             <div class="entry-media">
                                 <figure>
-                                    <a href="single.html"><img src="assets/images/blog/post1.jpg" alt="Post image"></a>
+                                    <a href="single.html"><img src="/frontend/images/blog/post1.jpg" alt="Post image"></a>
                                 </figure>
                                 <div class="entry-meta">
                                     <span><i class="fa fa-calendar"></i>17 January, 2016</span>
@@ -43,11 +43,11 @@
                                 <figure id="blog-post-gallery" class="carousel slide" data-ride="carousel" data-interval="10000">
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                            <a href="single.html"><img src="assets/images/blog/post2.jpg" alt="Post image"></a>
+                                            <a href="single.html"><img src="/frontend/images/blog/post2.jpg" alt="Post image"></a>
                                         </div><!-- End .item -->
 
                                         <div class="item">
-                                            <a href="single.html"><img src="assets/images/blog/post3.jpg" alt="Post image"></a>
+                                            <a href="single.html"><img src="/frontend/images/blog/post3.jpg" alt="Post image"></a>
                                         </div><!-- End .item -->
                                     </div><!-- End .carousel-inner -->
 
@@ -186,21 +186,21 @@
                     <ul class="posts-list">
                         <li>
                             <figure>
-                                <a href="#" title="Dolores labore quod"><img src="assets/images/blog/thumbs/post1.jpg" alt="Post"></a>
+                                <a href="#" title="Dolores labore quod"><img src="/frontend/images/blog/thumbs/post1.jpg" alt="Post"></a>
                             </figure>
                             <h5><a href="#">Dolores labore quod.</a></h5>
                             <span>Jan 06, 2016</span>
                         </li>
                         <li>
                             <figure>
-                                <a href="#" title="Dolores labore quod"><img src="assets/images/blog/thumbs/post2.jpg" alt="Post"></a>
+                                <a href="#" title="Dolores labore quod"><img src="/frontend/images/blog/thumbs/post2.jpg" alt="Post"></a>
                             </figure>
                             <h5><a href="#">Dolores labore ipsum quod.</a></h5>
                             <span>Jan 05, 2016</span>
                         </li>
                         <li>
                             <figure>
-                                <a href="#" title="Dolores labore quod"><img src="assets/images/blog/thumbs/post3.jpg" alt="Post"></a>
+                                <a href="#" title="Dolores labore quod"><img src="/frontend/images/blog/thumbs/post3.jpg" alt="Post"></a>
                             </figure>
                             <h5><a href="#">Dolores labore ipsum.</a></h5>
                             <span>Jan 04, 2016</span>

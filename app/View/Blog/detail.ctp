@@ -16,7 +16,7 @@
                 <article class="entry">
                     <div class="entry-media">
                         <figure>
-                            <img src="assets/images/blog/post1.jpg" alt="entry image">
+                            <img src="/frontend/images/blog/post1.jpg" alt="entry image">
                         </figure>
                     </div><!-- End .enty-media -->
 
@@ -28,26 +28,12 @@
                     </div><!-- End .entry-meta -->
 
                     <div class="entry-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure ipsum quia quas maxime commodi ut similique nemo suscipit ipsam omnis! Inventore rerum maxime, officiis assumenda quam. Fugit, dicta cumque quibusdam?</p>
-                        <p>At voluptates illo quia delectus ullam sed repellendus optio laboriosam, nemo excepturi quis non quae voluptas saepe. Saepe debitis commodi tempore vitae blanditiis provident harum consectetur, corporis dignissimos, placeat maxime.</p>
-                        <p>Omnis saepe possimus ab rerum quasi reiciendis, iste a neque quidem vitae? Reiciendis maiores eveniet iure tenetur. Possimus neque maxime architecto aspernatur? Vitae asperiores dignissimos est placeat tempora fugiat delectus.</p>
-
-                        <blockquote>
-                            <p>Vitae et, asperiores minus mollitia iusto ex maxime sit suscipit laudantium ea culpa, assumenda officia omnis. Minus cumque, quam, fugit officia corporis id sint hic incidunt ex vel atque provident?Nemo optio et enim quod voluptate ab accusantium explicabo maiores veritati.</p>
-                            <cite>-- James Richard Jr.</cite>
-                        </blockquote>
-                        <h3>Perspiciatis accusantium laudantium deserunt ad vel sit ipsam</h3>
-                        <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A magnam dolor impedit nesciunt, id rerum vel quidem deserunt dicta alias eos, pariatur doloremque minima reiciendis voluptas, voluptate, ut itaque doloribus!</span><span>Cumque reiciendis quo culpa maiores consequuntur voluptate tenetur eaque autem, placeat, excepturi soluta nulla assumenda nobis ut sed. Enim voluptatibus unde cupiditate voluptatum mollitia aliquid dicta! Itaque, atque quod impedit.</span></p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam minima porro temporibus, excepturi ad sequi culpa perspiciatis recusandae, magni nobis. Ullam qui laborum architecto et fuga nam optio alias dolores.</p>
-                        <h3>Accusamus placeat labore, laborum officiis cum obca</h3>
-                        <p>Vitae quasi distinctio quidem voluptate est saepe, id doloribus veritatis facilis architecto eius, aliquam maiores tempore, aut ullam animi amet! Autem a sunt quo delectus voluptas, nam aliquid, illum esse!</p>
-                        <p>Accusamus placeat labore, laborum officiis cum obcaecati, quas blanditiis fuga inventore vero dolores. Sequi, dolorem dolores tempore aliquid quaerat enim perspiciatis, assumenda omnis fugiat, nam sunt id repudiandae, laudantium minima.</p>
-                        <p>Perspiciatis accusantium laudantium deserunt ad vel sit ipsam consequuntur tenetur similique, recusandae esse a enim, quibusdam ullam, error doloribus. Accusamus alias, ipsum tempora sapiente reiciendis quasi nostrum ratione aspernatur repellat.</p>
+                        <?php echo h($post['Post']['content']); ?>
                     </div><!-- End .entry-content -->
 
                     <div class="entry-author">
                         <figure>
-                            <img src="assets/images/blog/users/author.jpg" alt="Author" class="img-responsive">
+                            <img src="/frontend/images/blog/users/author.jpg" alt="Author" class="img-responsive">
                         </figure>
                         <div class="author-content">
                             <h4><a href="#">Justin Gadget</a></h4>
@@ -71,7 +57,7 @@
                         <article class="entry entry-grid">
                             <div class="entry-media">
                                 <figure>
-                                    <a href="single.html"><img src="assets/images/blog/post1.jpg" alt="Post image"></a>
+                                    <a href="single.html"><img src="/frontend/images/blog/post1.jpg" alt="Post image"></a>
                                 </figure>
                                 <div class="entry-meta">
                                     <span><i class="fa fa-calendar"></i>17 Jan, 2016</span>
@@ -90,11 +76,11 @@
                                 <figure id="blog-post-gallery" class="carousel slide" data-ride="carousel" data-interval="10000">
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                            <a href="single.html"><img src="assets/images/blog/post2.jpg" alt="Post image"></a>
+                                            <a href="single.html"><img src="/frontend/images/blog/post2.jpg" alt="Post image"></a>
                                         </div><!-- End .item -->
 
                                         <div class="item">
-                                            <a href="single.html"><img src="assets/images/blog/post3.jpg" alt="Post image"></a>
+                                            <a href="single.html"><img src="/frontend/images/blog/post3.jpg" alt="Post image"></a>
                                         </div><!-- End .item -->
                                     </div><!-- End .carousel-inner -->
 
@@ -118,7 +104,7 @@
                         <article class="entry entry-grid">
                             <div class="entry-media">
                                 <figure>
-                                    <a href="single.html"><img src="assets/images/blog/post4.jpg" alt="Post image"></a>
+                                    <a href="single.html"><img src="/frontend/images/blog/post4.jpg" alt="Post image"></a>
                                 </figure>
                                 <div class="entry-meta">
                                     <span><i class="fa fa-calendar"></i>17 Jan, 2016</span>
@@ -135,7 +121,7 @@
                         <article class="entry entry-grid">
                             <div class="entry-media">
                                 <figure>
-                                    <a href="single.html"><img src="assets/images/blog/post5.jpg" alt="Post image"></a>
+                                    <a href="single.html"><img src="/frontend/images/blog/post5.jpg" alt="Post image"></a>
                                 </figure>
                                 <div class="entry-meta">
                                     <span><i class="fa fa-calendar"></i>17 Jan, 2016</span>
@@ -157,7 +143,7 @@
                         <li class="media">
                             <div class="comment">
                                 <div class="media-left">
-                                    <img class="media-object" src="assets/images/blog/users/user1.jpg" alt="User name">
+                                    <img class="media-object" src="/frontend/images/blog/users/user1.jpg" alt="User name">
                                 </div><!-- End .media-left -->
                                 <div class="media-body">
                                     <h4 class="media-heading">Steve Nash<span class="comment-date">49 min ago</span></h4>
@@ -169,7 +155,7 @@
                                 <li class="media">
                                     <div class="comment">
                                         <div class="media-left">
-                                            <img class="media-object" src="assets/images/blog/users/user2.jpg" alt="User name">
+                                            <img class="media-object" src="/frontend/images/blog/users/user2.jpg" alt="User name">
                                         </div><!-- End .media-left -->
                                         <div class="media-body">
                                             <h4 class="media-heading">Desmond Mason<span class="comment-date">32 min ago</span></h4>
@@ -181,7 +167,7 @@
                                         <li class="media">
                                             <div class="comment">
                                                 <div class="media-left">
-                                                    <img class="media-object" src="assets/images/blog/users/user3.jpg" alt="User name">
+                                                    <img class="media-object" src="/frontend/images/blog/users/user3.jpg" alt="User name">
                                                 </div><!-- End .media-left -->
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Ben Wallece<span class="comment-date">21 min ago</span></h4>
@@ -197,7 +183,7 @@
                         <li class="media">
                             <div class="comment">
                                 <div class="media-left">
-                                    <img class="media-object" src="assets/images/blog/users/user4.jpg" alt="User name">
+                                    <img class="media-object" src="/frontend/images/blog/users/user4.jpg" alt="User name">
                                 </div><!-- End .media-left -->
                                 <div class="media-body">
                                     <h4 class="media-heading">Steve Kerr<span class="comment-date">2 hours ago</span></h4>
@@ -239,40 +225,24 @@
                 <div class="widget">
                     <h3 class="widget-title">Categories</h3>
                     <ul class="fa-ul">
-                        <li><a href="#"><i class="fa-li fa fa-chain"></i>Nature (4)</a></li>
-                        <li><a href="#"><i class="fa-li fa fa-chain"></i>Lifestyle (16)</a></li>
-                        <li><a href="#"><i class="fa-li fa fa-chain"></i>Dancing (12)</a></li>
-                        <li><a href="#"><i class="fa-li fa fa-chain"></i>Travel (7)</a></li>
-                        <li><a href="#"><i class="fa-li fa fa-chain"></i>Music (11)</a></li>
-                        <li><a href="#"><i class="fa-li fa fa-chain"></i>Party (9)</a></li>
-                        <li><a href="#"><i class="fa-li fa fa-chain"></i>Europe (30)</a></li>
+                        <?php foreach($categories as $category){?>
+                        <li><a href="#"><i class="fa-li fa fa-chain"></i><?php echo $category['Category']['name'];?> (4)</a></li>
+                        <?php }?>
                     </ul>
                 </div><!-- end .widget -->
 
                 <div class="widget">
                     <h3 class="widget-title">Recent Posts</h3>
                     <ul class="posts-list">
+                        <?php foreach($recent_posts as $recent_post){?>
                         <li>
                             <figure>
-                                <a href="#" title="Dolores labore quod"><img src="assets/images/blog/thumbs/post1.jpg" alt="Post"></a>
+                                <a href="#" title="Dolores labore quod"><img src="/frontend/images/blog/thumbs/post1.jpg" alt="Post"></a>
                             </figure>
-                            <h5><a href="#">Dolores labore quod.</a></h5>
-                            <span>Jan 06, 2016</span>
+                            <h5><a href="#"><?php echo h($recent_post['Post']['title']); ?></a></h5>
+                            <span><?php echo h($recent_post['Post']['dateadd']); ?></span>
                         </li>
-                        <li>
-                            <figure>
-                                <a href="#" title="Dolores labore quod"><img src="assets/images/blog/thumbs/post2.jpg" alt="Post"></a>
-                            </figure>
-                            <h5><a href="#">Dolores labore ipsum quod.</a></h5>
-                            <span>Jan 05, 2016</span>
-                        </li>
-                        <li>
-                            <figure>
-                                <a href="#" title="Dolores labore quod"><img src="assets/images/blog/thumbs/post3.jpg" alt="Post"></a>
-                            </figure>
-                            <h5><a href="#">Dolores labore ipsum.</a></h5>
-                            <span>Jan 04, 2016</span>
-                        </li>
+                        <?php }?>
                     </ul>
                 </div><!-- End .widget -->
 
