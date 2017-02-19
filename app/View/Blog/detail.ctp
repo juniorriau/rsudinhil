@@ -20,9 +20,11 @@
                         </figure>
                     </div><!-- End .enty-media -->
 
-                    <h2 class="entry-title">Lorem ipsum dolor sit amet, consectetuer adipiscing elit .</h2>
+                    <h2 class="entry-title">
+                        <?php echo h($post['Post']['title']); ?>
+                    </h2>
                     <div class="entry-meta">
-                        <span><i class="fa fa-calendar"></i>17 January, 2016</span>
+                        <span><i class="fa fa-calendar"></i><?php echo h($post['Post']['dateadd']); ?></span>
                         <a href="#"><i class="fa fa-comments"></i>8 Comment(s)</a>
                         <a href="#"><i class="fa fa-user"></i> Admin</a>
                     </div><!-- End .entry-meta -->
@@ -36,7 +38,7 @@
                             <img src="/frontend/images/blog/users/author.jpg" alt="Author" class="img-responsive">
                         </figure>
                         <div class="author-content">
-                            <h4><a href="#">Justin Gadget</a></h4>
+                            <h4><a href="#"><?php echo h($post['User']['name']); ?></a></h4>
                             <p>Perspiciatis accusantium laudantium deserunt ad vel sit ipsam consequuntur tenetur similique, recusandae esse a enim, quibusdam ullam, error doloribus. Accusamus alias, ipsum tempora sapiente reiciendis quasi nostrum ratione aspernatur repellat.</p>
                             <div class="social-icons">
                                 <label>Find Us:</label>
@@ -226,7 +228,7 @@
                     <h3 class="widget-title">Categories</h3>
                     <ul class="fa-ul">
                         <?php foreach($categories as $category){?>
-                        <li><a href="#"><i class="fa-li fa fa-chain"></i><?php echo $category['Category']['name'];?> (4)</a></li>
+                        <li><a href="/blog/category/<?php echo $category['Category']['id'];?>"><i class="fa-li fa fa-chain"></i><?php echo $category['Category']['name'];?> (4)</a></li>
                         <?php }?>
                     </ul>
                 </div><!-- end .widget -->
@@ -237,9 +239,9 @@
                         <?php foreach($recent_posts as $recent_post){?>
                         <li>
                             <figure>
-                                <a href="#" title="Dolores labore quod"><img src="/frontend/images/blog/thumbs/post1.jpg" alt="Post"></a>
+                                <a href="/blog/detail/<?php echo h($recent_post['Post']['slug']); ?>" title="Dolores labore quod"><img src="/frontend/images/blog/thumbs/post1.jpg" alt="Post"></a>
                             </figure>
-                            <h5><a href="#"><?php echo h($recent_post['Post']['title']); ?></a></h5>
+                            <h5><a href="/blog/detail/<?php echo h($recent_post['Post']['slug']); ?>"><?php echo h($recent_post['Post']['title']); ?></a></h5>
                             <span><?php echo h($recent_post['Post']['dateadd']); ?></span>
                         </li>
                         <?php }?>

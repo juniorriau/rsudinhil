@@ -19,6 +19,7 @@ App::uses('CakeEmail', 'Network/Email');
 
 class User extends UserMgmtAppModel {
 
+    public $displayField = 'username';
     /**
      * This model belongs to following models
      *

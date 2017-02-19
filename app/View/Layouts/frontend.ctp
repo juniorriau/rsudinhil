@@ -103,8 +103,8 @@
                         </div><!-- End .top-text -->
 
                         <div class="top-links pull-left">
-                            <a href="#">Login</a>
-                            <a href="#">Register</a>
+                            <a href="/login">Login</a>
+                            <a href="/register">Register</a>
                         </div><!-- End .top-links -->
                     </div><!-- End .container -->
                 </div><!-- End .header-top -->

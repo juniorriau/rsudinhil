@@ -19,7 +19,7 @@ App::uses('CakeEmail', 'Network/Email');
 
 class User extends AppModel {
 
-    public $displayField = 'name';
+    public $displayField = 'username';
 
     /**
      * This model belongs to following models

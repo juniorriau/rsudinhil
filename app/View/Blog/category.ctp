@@ -40,7 +40,9 @@
                           </div><!-- End .row -->
                       </article>
                   <?php } ?>
-
+                <pre>
+                    <?php print_r($posts)?>
+                </pre>
                 <nav class="pagination-container">
                     <label>Showing: 1-4 of 16</label>
                     <ul class="pagination">

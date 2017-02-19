@@ -21,7 +21,7 @@
                       echo $this->Form->input('published', ['type' => 'checkbox', 'value' => 1]);
                       echo $this->Form->input('user_id', ['options' => $users]);
                       foreach ($categories as $cat) {
-                          echo $this->Form->input('PostCategory.x.', ['type' => 'checkbox', 'label' => $cat['Category']['name'], 'value' => $cat['Category']['id']]);
+                          echo $this->Form->input('PostCategory.x.', ['class'=>'','type' => 'checkbox', 'label' => $cat['Category']['name'], 'value' => $cat['Category']['id']]);
                       }
                     ?>
                     <?php echo $this->Form->submit(__('Submit'), array('class' => 'btn btn-primary btn-lg', 'div' => 'col-sm-12', 'style' => 'margin-top:10px;')); ?><?php echo $this->Form->end(); ?>
