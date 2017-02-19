@@ -70,12 +70,13 @@
 
               $i = 0;
               foreach ($this->request->data['PostCategory']['x'] as $p):
-                  $this->request->data['PostCategory'][$i]['category_id'] = $p;
+                  if ($p !=='0') {
+                      $this->request->data['PostCategory'][$i]['category_id'] = $p;
+                  }
                   $i++;
               endforeach;
 
-              $this->Util->debug($this->request->data);
-              die;
+
               if ($this->Post->saveAll($this->request->data)) {
                   $this->Session->setFlash(__('The post has been saved.'));
                   return $this->redirect(array('action' => 'index'));
