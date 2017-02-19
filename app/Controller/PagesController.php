@@ -54,6 +54,10 @@
       public function board() {
           
       }
+      public function dashboard() {
+          
+      }
+
 
   }
   

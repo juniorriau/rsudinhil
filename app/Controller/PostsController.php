@@ -60,20 +60,20 @@
       public function add() {
           if ($this->request->is('post')) {
               $this->Post->create();
-              
-              
+
+
               $this->request->data['Post']['slug'] = $this->Util->SeoUrl($this->request->data['Post']['title']);
               $this->request->data['Post']['dateadd'] = date('Y-m-d');
               $this->request->data['Post']['datemodify'] = date('Y-m-d');
               $this->request->data['Post']['published'] = 1;
-              $this->request->data['Post']['featureimage'] = $this->request->data['Post']['featureimage']==''?'-':$this->request->data['Post']['featureimage'];
-              
-              $i=0;
-              foreach ($this->request->data['Pc']['category_id'] as $p):
-                  $this->request->data['PostCategory'][$i]['category_id']=$p;
+              $this->request->data['Post']['featureimage'] = $this->request->data['Post']['featureimage'] == '' ? '-' : $this->request->data['Post']['featureimage'];
+
+              $i = 0;
+              foreach ($this->request->data['PostCategory']['x'] as $p):
+                  $this->request->data['PostCategory'][$i]['category_id'] = $p;
                   $i++;
               endforeach;
-              
+
               $this->Util->debug($this->request->data);
               die;
               if ($this->Post->saveAll($this->request->data)) {
