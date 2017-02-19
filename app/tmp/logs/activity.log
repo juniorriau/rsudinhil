@@ -1,0 +1,2020 @@
+2015-04-30 23:37:22 Debug: permission: actionUrl-users/social_login
+2015-04-30 23:38:42 Debug: permission: actionUrl-users/social_login
+2015-04-30 23:40:12 Debug: permission: actionUrl-users/social_login
+2015-04-30 23:40:18 Debug: permission: actionUrl-users/social_login
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:32 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:33 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:34 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:35 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:36 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:36 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:36 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:36 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:36 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:36 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:36 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:36 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:38 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:39 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:40 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:41 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:42 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:42 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:42 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:42 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:42 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 112]
+Trace:
+include - APP\View\Layouts\default.ctp, line 112
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:42 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 114]
+Trace:
+include - APP\View\Layouts\default.ctp, line 114
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:42 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 120]
+Trace:
+include - APP\View\Layouts\default.ctp, line 120
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
+2015-05-01 00:57:42 Debug: Notice (8): Undefined variable: current_language in [D:\xampp\htdocs\base_app\app\View\Layouts\default.ctp, line 121]
+Trace:
+include - APP\View\Layouts\default.ctp, line 121
+View::_evaluate() - CORE\Cake\View\View.php, line 948
+View::_render() - CORE\Cake\View\View.php, line 910
+View::renderLayout() - CORE\Cake\View\View.php, line 542
+View::render() - CORE\Cake\View\View.php, line 479
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 278
+ExceptionRenderer::error400() - CORE\Cake\Error\ExceptionRenderer.php, line 222
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 176
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 120
+[main] - [internal], line ??
+
